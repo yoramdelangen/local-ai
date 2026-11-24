@@ -1,0 +1,1 @@
+../../repositories/caveman/src/plugins/opencode/commands/caveman-stats.md

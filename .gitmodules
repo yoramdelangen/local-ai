@@ -1,0 +1,6 @@
+[submodule "repositories/superpowers"]
+	path = repositories/superpowers
+	url = https://github.com/obra/superpowers.git
+[submodule "repositories/caveman"]
+	path = repositories/caveman
+	url = https://github.com/JuliusBrussee/caveman.git
